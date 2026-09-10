@@ -5,7 +5,7 @@
 ---
 
 <p align="center">
-  <img src="Images/Premier%20League%20Banner.png" alt="Premier League Football Analysis Banner" width="100%">
+  <img src="https://github.com/sabbirakash/Premier-League-Football-Analysis-Dashboard-Power-BI/blob/main/Images/Premier%20League%20Football%20Analysis%20Banner.png" width="100%">
 </p>
 
 ---
@@ -34,15 +34,15 @@ This project presents an **interactive 3-page Power BI dashboard** built on **10
 # 📊 Dashboard Preview
 
 <p align="center">
-  <img src="Images/Team%20Performance%20Dashboard.png" alt="Team Performance Overview" width="100%">
+  <img src="https://github.com/sabbirakash/Premier-League-Football-Analysis-Dashboard-Power-BI/blob/main/Images/Screenshot%20-%20Performence%20Pluse.png" alt="Team Performance Overview" width="100%">
 </p>
 
 <p align="center">
-  <img src="Images/Goal%20Analysis%20Dashboard.png" alt="Goal Analysis Dashboard" width="100%">
+  <img src="https://github.com/sabbirakash/Premier-League-Football-Analysis-Dashboard-Power-BI/blob/main/Images/Screenshot%20-%20Goal%20Insights.png" alt="Goal Analysis Dashboard" width="100%">
 </p>
 
 <p align="center">
-  <img src="Images/Discipline%20and%20Referee%20Dashboard.png" alt="Discipline & Referee Analysis Dashboard" width="100%">
+  <img src="https://github.com/sabbirakash/Premier-League-Football-Analysis-Dashboard-Power-BI/blob/main/Images/Screenshot%20-%20Aggression%20Index.png" alt="Discipline & Referee Analysis Dashboard" width="100%">
 </p>
 
 ---
