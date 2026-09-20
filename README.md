@@ -1,4 +1,4 @@
-# ⚽ Premier League Football Analysis Dashboard | Power BI
+# ⚽ Premier League Football Analysis Power BI Dashboard
 
 > An interactive **Power BI dashboard** analyzing **10 seasons of English Premier League data (2009–2019)** — covering team performance, goal trends, home/away strength, disciplinary records, and referee behavior. Built using **Power Query**, **advanced DAX**, and a **star-schema data model** to transform 3,630 matches into actionable football insights.
 
